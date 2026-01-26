@@ -10,5 +10,5 @@
 - **Архитектура** — MVVM, протоколы (`NetworkFetching`), Dependency Injection, переиспользуемые компоненты
 
 ## 💌 Контакты
-- Telegram: [@atubien]  
+- Telegram: [@atubien](https://t.me/atubien)
 - Email: lajsanminlebaeva@mail.ru
