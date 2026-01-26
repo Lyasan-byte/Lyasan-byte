@@ -1,16 +1,15 @@
-## Hi there 👋
+# Привет ❤️‍🔥 Я Ляйсан — SwiftUI-разработчик
 
-<!--
-**Lyasan-byte/Lyasan-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Создаю iOS-приложения с акцентом на **сложный UI**, **чистую архитектуру** и **плавный UX**.
 
-Here are some ideas to get you started:
+## 🛠️ Hard Skills
+- **SwiftUI** — адаптивные, кастомные интерфейсы по макету или референсу
+- **Асинхронность** — `async/await`, `Task`, обработка ошибок
+- **Хранение данных** — `Core Data`, `FileManager` + `Codable`
+- **Сетевые запросы** — JSON, `Decodable`, кастомные ошибки (`APIError`)
+- **Архитектура** — MVVM, протоколы (`NetworkFetching`), Dependency Injection, переиспользуемые компоненты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Контакты
+[![Open to freelance](https://img.shields.io/badge/-Open%20to%20freelance-blue)](https://t.me/atubien)  
+- Telegram: [@atubien]  
+- Email: lajsanminlebaeva@mail.ru
