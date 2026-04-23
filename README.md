@@ -1,4 +1,4 @@
-# ❤️‍🔥 Lyasan — iOS Developer
+# Lyasan — iOS Developer
 
 Building clean, scalable iOS applications with a focus on real user experience.
 
@@ -8,9 +8,8 @@ I have hands-on experience in team development, including taking ownership of fe
 
 ## 🧩 Tech & Approach
 
-Working with both **UIKit** and **SwiftUI**, building full-featured applications with each.
-
 In my work I apply:
+- **UI:** UIKit, SwiftUI
 - **Architecture:** MVVM + Coordinator  
 - **Concurrency:** Combine, Swift Concurrency
 - **Data:** CoreData, SwiftData, Firebase (Firestore)  
