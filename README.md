@@ -1,4 +1,4 @@
-# ❤️‍🔥 Lyasan — iOS Developer
+# 🧩 Lyasan — iOS Developer
 
 I build iOS applications with a focus on clean architecture, scalable code, and high-quality user experience.
 
@@ -15,7 +15,7 @@ I have hands-on experience in team development, including taking ownership of fe
 
 ---
 
-## 🧩 Tech & Approach
+## 🔎 Tech & Approach
 
 My primary focus is **UIKit**, where I build complex and customizable interfaces.  
 I also have experience developing full applications using **SwiftUI**, which allows me to understand and choose the right tool for each case.
