@@ -1,4 +1,4 @@
-# Lyasan — iOS Developer
+# ❤️‍🔥 Lyasan — iOS Developer
 
 I build iOS applications with a focus on clean architecture, scalable code, and high-quality user experience.
 
