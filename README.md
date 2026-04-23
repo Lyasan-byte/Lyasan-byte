@@ -1,6 +1,6 @@
 # ❤️‍🔥 Lyasan — iOS Developer
 
-I build iOS applications with a focus on clean architecture, scalable code, and high-quality user experience.
+Focused on clean architecture, scalable code, and high-quality user experience.
 
 I have hands-on experience in team development, including taking ownership of features, coordinating tasks, and delivering modules from scratch.
 
