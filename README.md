@@ -16,8 +16,6 @@ In my work I apply:
 - **Networking:** URLSession, Alamofire  
 - **Dependency Injection:** Swinject  
 
-## 🤍 Approach
-
 I aim not just to write code, but to build maintainable and reliable systems.
 
 ---
