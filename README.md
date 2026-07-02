@@ -1,4 +1,4 @@
-# I'm Lyasan — iOS Developer
+# 🌷 I'm Lyasan — iOS Developer
 
 Building clean, scalable iOS applications with a focus on real user experience.
 
